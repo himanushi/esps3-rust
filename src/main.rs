@@ -10,6 +10,5 @@ fn main() {
     loop {
         thread::sleep(Duration::from_millis(5000));
         log::info!("time!!!");
-        log::info!("time!!!");
     }
 }
