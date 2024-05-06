@@ -9,6 +9,6 @@ fn main() {
 
     loop {
         thread::sleep(Duration::from_millis(5000));
-        log::info!("hey!!!");
+        log::info!("hey2!!!");
     }
 }
